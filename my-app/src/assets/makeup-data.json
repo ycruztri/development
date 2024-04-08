@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Find Comfort Hydrating Hand Cream",
+      "type": "cream",
+      "brand": "Rare Beauty",
+      "options": ["Size: Standard size"],
+      "price": 18.00,
+      "image": "makeup.png"
+    },
+    {
+        "name": "Kind Words Matte Lipstick",
+        "type": "lipstick",
+        "brand": "Rare Beauty",
+        "options": ["Color: Strong - rich chocolate", "Color: Gifted - deep dusty plum", "Color: Fun - neutral mauve"], 
+        "price": 20.00,
+        "image": "makeup.png"
+    },
+    {
+        "name": "Lipstick",
+        "type": "lipstick",
+        "brand": "Nars",
+        "options": ["Color: Tonka - rose brown - matte", "Color: Jolie Mome - red plum - matte", "Color: Inappropriate Red - poppy red"], 
+        "price": 26.00,
+        "image": "makeup.png"
+    },
+    {
+        "name": "Long-Wearing Matte & Satin Velvet Lipstick",
+        "type": "lipstick",
+        "brand": "Anastasia Beverly Hills",
+        "options": ["Color: Haze - light peachy nude with a satin finish", "Color: Tease - rose quartz pink with a satin finish", "Color: Butterscotch - neutral peachy beige with a satin finish"], 
+        "price": 23.00,
+        "image": "makeup.png"
+    }, 
+    {
+        "name": "Signature Lip Lightweight Matte Lipstick",
+        "type": "lipstick",
+        "brand": "MERIT",
+        "options": ["Color: Maison - mauve", "Color: Equestrian - warm brown", "Color: Antibes - soft peach"], 
+        "price": 26.00,
+        "image": "makeup.png"
+    },
+    {
+        "name": "Perfect Strokes Universal Volumizing Mascara",
+        "type": "mascara",
+        "brand": "Rare Beauty",
+        "options": ["Standard size"], 
+        "price": 20.00,
+        "image": "makeup.png"
+    }, 
+    {
+        "name": "Perfect Strokes Universal Volumizing Mascara",
+        "type": "mascara",
+        "brand": "Rare Beauty",
+        "options": ["Mini size"], 
+        "price": 11.00,
+        "image": "makeup.png"
+    }, 
+    {
+        "name": "Lash Clash Extreme Volume Mascara",
+        "type": "mascara",
+        "brand": "Yves Saint Laurent",
+        "options": ["Color: Noir - deep black", "Color: Uninhibited Brown - deep rich brown", "Color: Electric Blue - cobalt blue"], 
+        "price": 32.00,
+        "image": "makeup.png"
+    }, 
+    {
+        "name": "Lash Slick Lift and Lengthening Mascara",
+        "type": "mascara",
+        "brand": "Glossier",
+        "options": ["Color: Black - true black mascara", "Color: Brown - natural brown mascara"], 
+        "price": 20.00,
+        "image": "makeup.png"
+    }, 
+    {
+        "name": "Clean Lash Lengthening Tubing Mascara",
+        "type": "mascara",
+        "brand": "MERIT",
+        "options": ["Color: Black"], 
+        "price": 26.00,
+        "image": "makeup.png"
+    }, 
+    {
+        "name": "Perfect Strokes Longwear & Waterproof Gel Eyeliner",
+        "type": "eyeliner",
+        "brand": "Rare Beauty",
+        "options": ["Color: True Black - black", "Color: True Brown", "Color: Compassion"], 
+        "price": 19.00,
+        "image": "makeup.png"
+    }, 
+    {
+        "name": "Double Take Eyeliner",
+        "type": "eyeliner",
+        "brand": "tarte",
+        "options": ["Standard size"], 
+        "price": 26.00,
+        "image": "makeup.png"
+    }
+  ]
+  
